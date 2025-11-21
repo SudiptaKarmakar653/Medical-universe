@@ -1,0 +1,10 @@
+project_id = "iuzsycwcjwsuwygsibnr"
+
+[functions.pet-health-ai]
+verify_jwt = false
+
+[functions.livestock-health-ai]
+verify_jwt = false
+
+[functions.crop-health-ai]
+verify_jwt = false
