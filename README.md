@@ -2,7 +2,7 @@ PROJECT IS MADE BY SUDIPTA  .
 enjoy with our project
  
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
+Live linl: https://boisterous-treacle-891c1b.netlify.app/
 Follow these steps:
 
 ```sh
